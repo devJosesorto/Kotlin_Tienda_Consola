@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Laptop",
+      "precio": 1500.0,
+      "cantidadDisponible": 10
+    },
+    {
+      "nombre": "Mouse",
+      "precio": 25.0,
+      "cantidadDisponible": 50
+    },
+    {
+      "nombre": "Teclado",
+      "precio": 45.0,
+      "cantidadDisponible": 20
+    },
+    {
+      "nombre": "Monitor",
+      "precio": 300.0,
+      "cantidadDisponible": 15
+    },
+    {
+      "nombre": "Cargador USB",
+      "precio": 15.0,
+      "cantidadDisponible": 100
+    }
+  ]
+}
